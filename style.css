@@ -1,10 +1,39 @@
 .body {
-    background-color: #f4f4f4f4;
+    background-color: #f4f4f4;
 }
 
-.navbar-brand{
-    img{
-        width: 150px;
-    }
+.navbar-brand img {
+    width: 150px;
+}
+footer{
+    background-color: #4f4f4f ;
+    color: #fff;
+    margin-top: 30px;
 
+}
+footer  ul li {
+    color: #ffffff;
+    list-style: none;
+    font-size: 20px;
+}
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+   
+}
+.categorias div{
+    text-align: center;
+
+}
+.chat{
+    position: fixed;
+    bottom: 30px;
+    background-color: green;
+    width: 165px;  
+    padding: 5px;
+    right: 20px ;
+}
+chat a{
+    color: #fff;
+  
 }
